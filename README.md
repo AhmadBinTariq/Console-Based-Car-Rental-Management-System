@@ -34,7 +34,7 @@ This project is a Console-Based Car Rental Management System implemented in C++.
 4) Update Customer Data
 5) Add and Remove Car
 6) Check Reports Related to Customers and Cars
-7) Quit'
+7) Quit
 
 ## Customer Dashboard
 
